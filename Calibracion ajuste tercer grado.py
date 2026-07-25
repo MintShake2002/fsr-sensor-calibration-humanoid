@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 # =============================================================================
 # CONFIGURACIÓN INICIAL
 # =============================================================================
-PUERTO_COM = 'COM4'  # Cambia esto al puerto correcto en tu laptop
+PUERTO_COM = 'COM4'  # Cambia esto al puerto correcto que diga en el IDE de Arduino
 BAUD_RATE = 115200  # Coincide con SerialUSB.begin(115200) del Arduino
 ARCHIVO_CSV = 'calibracion_fsr_dinamometro.csv'
 
